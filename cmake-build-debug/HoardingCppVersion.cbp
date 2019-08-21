@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HoardingCppVersion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HoardingCppVersion">
+				<Option output="/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/HoardingCppVersion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 HoardingCppVersion"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HoardingCppVersion/fast">
+				<Option output="/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/HoardingCppVersion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 HoardingCppVersion/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jameslemkin/Desktop/homework/compsci/Version1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/AuctionManager.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/AuctionManager.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Board.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Board.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/CSVReader.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/CSVReader.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/DiceRoller.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/DiceRoller.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/FreeParking.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/FreeParking.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/GameState.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/GameState.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Go.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Go.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/GoToJail.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/GoToJail.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Jail.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Jail.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/JailSentence.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/JailSentence.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/MonopolyUtility.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/MonopolyUtility.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Move.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Move.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/PayTheBank.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/PayTheBank.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Player.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Player.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Property.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Property.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/PropertyManager.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/PropertyManager.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/PropertySet.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/PropertySet.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Rules.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Rules.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Space.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/Space.h">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/main.cpp">
+			<Option target="HoardingCppVersion"/>
+		</Unit>
+		<Unit filename="/Users/jameslemkin/Desktop/homework/compsci/Version1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
